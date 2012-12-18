@@ -1,0 +1,5 @@
+*.pyc
+*.cookies
+conf.py
+fakedit.txt
+
